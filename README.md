@@ -28,8 +28,4 @@ Regla 9
 Al "h2" poner un "id"con el nombre (gamer), color de texto #6c2eb9, texto centrado.
 
 Regla 10
-
-
-Regla 11
-
-
+Etiqueta "a" ponemos un "id" con el nombre (comprar_raton_gamer), con las propiedades: color de fondo aqua, color negro, sin decoración de texto, radio de borde de 10px.
