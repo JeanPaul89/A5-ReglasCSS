@@ -29,3 +29,18 @@ Al "h2" poner un "id"con el nombre (gamer), color de texto #6c2eb9, texto centra
 
 Regla 10
 Etiqueta "a" ponemos un "id" con el nombre (comprar_raton_gamer), con las propiedades: color de fondo aqua, color negro, sin decoración de texto, radio de borde de 10px.
+
+Regla 11
+Etiqueta "img" ponemos "class" con el nombre (teclado_gamer), propiedades: padding a la izquierda de un 30% y una anchura de 50%.
+
+Regla 12
+En la etiqueta "a" ponemos el "id" con el nombre (comprar_teclado_gamer), propiedades: color de fondo rojo, color de letra negro, sin decoración de texto.
+
+Regla 13
+En la etiqueta "img" ponemos un "class" con el nombre (cascos_gamer)
+
+Regla 14
+En la etiqueta "a" ponemos un "id" con el nombre (comprar_cascos_gamer) con las propiedades: color de fondo naranja, color de letra azul, un tamaño de 12px, sin decoracion de texto.
+
+Regla 15
+En la etiqueta "p" ponemos un "id con el nombre (parrado_final) con las propiedades: color de fondo negro, color de texto blanco, fuente cursiva.
